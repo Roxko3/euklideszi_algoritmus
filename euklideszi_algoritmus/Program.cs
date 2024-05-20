@@ -51,6 +51,7 @@
         static void Main(string[] args)
         {
             euklidesz(540, 372);
+            //euklidesz(432, 300);
             //euklidesz(2024, 1526);
 
         }
